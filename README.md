@@ -11,3 +11,5 @@ DOWN ARROW - No wind
 M - More snow
 
 L - Less snow
+
+Download and play !!!
