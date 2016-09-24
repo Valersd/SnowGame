@@ -2,14 +2,14 @@
 
 GAME RULES:
 
-LEFT ARROW - Wind from right
+  LEFT ARROW - Wind from right
 
-RIGHT ARROW - Wind from left
+  RIGHT ARROW - Wind from left
 
-DOWN ARROW - No wind
+  DOWN ARROW - No wind
 
-M - More snow
+  M - More snow
 
-L - Less snow
+  L - Less snow
 
-Download and play !!!
+      DOWNLOAD AND PLAY !!!
