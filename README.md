@@ -12,4 +12,4 @@ GAME RULES:
 
   L - Less snow
 
-      DOWNLOAD AND PLAY !!!
+#### DOWNLOAD AND PLAY !!!
