@@ -1,15 +1,19 @@
 # SnowGame
 
-GAME RULES:
+### GAME RULES:
 
-  LEFT ARROW - Wind from right
+  **LEFT ARROW** - Wind from right
 
-  RIGHT ARROW - Wind from left
+  **RIGHT ARROW** - Wind from left
 
-  DOWN ARROW - No wind
+  **DOWN ARROW** - No wind
 
-  M - More snow
+  **M** - More snow
 
-  L - Less snow
+  **L** - Less snow
+  
+  **P** - Pause
 
-#### DOWNLOAD AND PLAY !!!
+## DOWNLOAD AND PLAY !!!
+
+SnowGame-master\Snow.Game\bin\Debug\Snow.Game.exe
